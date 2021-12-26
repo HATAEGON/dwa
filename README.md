@@ -1,9 +1,11 @@
 # dwa(dynamic window approach)
 
-## Definition :
-
+## Dynamic Window Approach
 https://en.wikipedia.org/wiki/Dynamic_window_approach
 
-## Implementation :
+## From
+https://www.youtube.com/watch?v=tNtUgMBCh2g
 
+## Implementation :
 Python3
+
